@@ -1,4 +1,4 @@
 # TestPages
 Testing Pages
 
-[Page 1](Folder1/page1.html)
+[Page 1](/Folder1/Page1.md)
